@@ -1,8 +1,8 @@
 React-Three-Dots
 ================
-Cross-browser multiline text ellipsis for react
-
-<img src="http://dotdotdot.frebsite.nl/img/preview.png" width="100%" border="0" />
+Truncate text and add mark ...
+Its create read more, see more or shorten a paragraph that is too long.
+Its extremely light.
 
 Install
 ----------------
@@ -32,7 +32,7 @@ render() {
 			{shortTitle}
 		</div>
 	)
-	
+
 }
 
 ```
