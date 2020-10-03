@@ -1,0 +1,16 @@
+{
+  "name": "react-three-dots",
+  "version": "1.0.0",
+  "description": "Truncate text and add mark ...",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "truncate",
+    "react-three-dots",
+    "react"
+  ],
+  "author": "Hoang Quoc Khanh",
+  "license": "ISC"
+}
