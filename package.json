@@ -1,6 +1,6 @@
 {
   "name": "react-three-dots",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Truncate text and add mark ...",
   "main": "src/index.js",
   "scripts": {
