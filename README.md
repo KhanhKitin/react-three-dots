@@ -1,5 +1,9 @@
 React-Three-Dots
 ================
+
+<img src="https://user-images.githubusercontent.com/47603668/94992963-cb20a380-05b7-11eb-889a-dc0abea509b3.png" width="100%" border="0" />
+
+
 Truncate text and add mark ...
 Its create read more, see more or shorten a paragraph that is too long.
 Its extremely light.
@@ -10,7 +14,7 @@ Install
 npm install --save react-three-dots
 ```
 
-Sample usage
+Usage
 ----------------
 
 Threedots(text, max_length)
