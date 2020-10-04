@@ -43,3 +43,7 @@ Notes
 -----------------
 React-three-dots is simple plugin, if you need more functionality, consider using react-truncate
 https://www.npmjs.com/package/react-truncate
+
+My blog
+-----------------
+https://www.hoangkhanh.codes
